@@ -11,9 +11,9 @@
   "files": [
     "generators"
   ],
+  "homepage": "https://github.com/dnlek/cmdcli",
   "main": "generators/index.js",
   "keywords": [
-    "",
     "yeoman-generator"
   ],
   "dependencies": {
