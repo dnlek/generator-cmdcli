@@ -6,6 +6,6 @@ export default class Command {
   }
 
   exec(args) {
-    process.stdout.write(`Welcome ${args.name} in <%= projectName %>\n`);
+    process.stdout.write(`Welcome ${args.name} in <%= projectName %>!\n`);
   }
 }
