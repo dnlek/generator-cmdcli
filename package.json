@@ -1,8 +1,8 @@
 {
   "name": "generator-cmdcli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Generator of command line program driven by cmdcli",
-  "homepage": "",
+  "homepage": "https://github.com/dnlek/cmdcli",
   "author": {
     "name": "Daniel Wagner <dnl.wagner@gmail.com>",
     "email": "dawagner@adobe.com",
@@ -11,7 +11,6 @@
   "files": [
     "generators"
   ],
-  "homepage": "https://github.com/dnlek/cmdcli",
   "main": "generators/index.js",
   "keywords": [
     "yeoman-generator"
