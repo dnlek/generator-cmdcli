@@ -1,7 +1,7 @@
 export default class Command {
   get args() {
     return [
-      'name'
+      'name',
     ];
   }
 

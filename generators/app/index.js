@@ -51,8 +51,8 @@ module.exports = yeoman.Base.extend({
       this.copy('babelrc', '.babelrc');
     },
     commands: function () {
-      this.copy('commandswelcome.js', 'src/commands/welcome.js');
-      this.copy('commandsindex.js', 'src/commands/index.js');
+      this.copy('commands/welcome.js', 'src/commands/welcome.js');
+      this.copy('commands/index.js', 'src/commands/index.js');
     }
   },
 
